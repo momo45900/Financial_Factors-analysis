@@ -59,7 +59,7 @@ The results suggest that the S&P 500's performance is influenced more by World E
 
 A correlation matrix visualizes the relationships between the factors:
 
-![Correlation Matrix](path_to_correlation_matrix_image.png)
+![Correlation Matrix](image/matrix_image.png)
 
 ### Variance Inflation Factor (VIF)
 
@@ -79,7 +79,7 @@ The VIF values indicate multicollinearity among the factors:
 
 The residual plot helps assess model fit:
 
-![Residual Plot](path_to_residual_plot.png)
+![Residual Plot](image/plot.png)
 
 ### Performance Metrics
 
