@@ -73,6 +73,10 @@ The VIF values indicate multicollinearity among the factors:
 | 10YearUSTreasuries    | 2.93      |
 | InflationProtection   | 2.09      |
 
+### No Severe Multicollinearity
+
+All VIF values are below 5, suggesting that there is no severe multicollinearity among the factors in your model. This means that the coefficients in your regression model are likely stable and interpretable.
+
 ### Performance Metrics
 
 - **R² Score**: [R² Score Value]
