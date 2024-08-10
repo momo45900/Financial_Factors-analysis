@@ -73,14 +73,6 @@ The VIF values indicate multicollinearity among the factors:
 | 10YearUSTreasuries    | 2.93      |
 | InflationProtection   | 2.09      |
 
-## Model Evaluation
-
-### Residual Plot
-
-The residual plot helps assess model fit:
-
-![Residual Plot](images/plot.png)
-
 ### Performance Metrics
 
 - **R² Score**: [R² Score Value]
