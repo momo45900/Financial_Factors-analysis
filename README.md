@@ -59,7 +59,7 @@ The results suggest that the S&P 500's performance is influenced more by World E
 
 A correlation matrix visualizes the relationships between the factors:
 
-![Correlation Matrix](image/matrix_images.png)
+![Correlation Matrix](images/matrix_image.png)
 
 ### Variance Inflation Factor (VIF)
 
