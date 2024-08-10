@@ -38,7 +38,7 @@ Daily returns are calculated for each asset. An Inflation Protection factor is d
 
 The Lasso regression model outputs include:
 
-- **Intercept**: [Value]
+- **Intercept**: [0.0009876933029975444]
 - **Factor Loadings**:
 
     | Factor                 | Loading                       |
