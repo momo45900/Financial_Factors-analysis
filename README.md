@@ -7,13 +7,13 @@ This project implements a Lasso regression model to analyze the relationship bet
 - **Data Acquisition**: Retrieves daily adjusted close prices for selected financial assets using the `yfinance` library.
 - **Return Calculation**: Computes daily returns and calculates Inflation Protection.
 - **Lasso Regression**: Applies Lasso regression with cross-validation to find the optimal penalty parameter (alpha).
-- **Factor Loadings**: Displays the impact of each financial factor on the S&P 500.
+- **Factor Loadings**: Displays the impact of each financial factor on the S&P 500 (the data chosen was for 2023 to make things simple).
 - **Correlation Analysis**: Generates a correlation matrix and calculates the Variance Inflation Factor (VIF) to assess multicollinearity.
 - **Model Evaluation**: Includes R² score, cross-validation performance, and a residual plot to evaluate model fit.
 
 ## Data Loading
 
-Historical price data is downloaded from Yahoo Finance for the following symbols:
+Historical price data (2023) is downloaded from Yahoo Finance for the following symbols:
 
 - **WorldEquities**: `ACWI` (MSCI All Country World Index)
 - **HighYield**: `HYG` (High Yield Corporate Bond ETF)
